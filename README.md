@@ -63,7 +63,6 @@ print(f"Predicted value: {pre}")
 ![3-1](https://github.com/Bhuvanesh-Suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742661/82357172-a8e1-4460-bff9-f861163e26a5)
 ![3-2](https://github.com/Bhuvanesh-Suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742661/0cf10207-afe4-4af4-88f7-6d4bd16e1533)
 
-
 ![3-3](https://github.com/Bhuvanesh-Suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742661/0191b0a3-6748-41c3-a165-85315f7ea405)
 ![3-4](https://github.com/Bhuvanesh-Suresh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742661/e302cdd8-2436-47d8-9411-67298513e90a)
 
